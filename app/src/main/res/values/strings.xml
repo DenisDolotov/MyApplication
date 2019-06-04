@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="background_image">background image</string>
+    <string name="my_song">My Song</string>
+</resources>
